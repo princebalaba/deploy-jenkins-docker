@@ -4,4 +4,7 @@
   <artifactId>deploy-jenkins-docker</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>deploy</name>
+  <build>
+  <finalName>my-first-deployment</finalName>
+  </build>
 </project>
